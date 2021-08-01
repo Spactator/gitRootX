@@ -1,4 +1,0 @@
-gitRoot:
-The git init dir and the repo Origin's file.
-.gitRoot:[git/Originrepo.together]:[README.txt]
-#:gitRoot
