@@ -1,0 +1,2 @@
+gitRoot
+The git init dir
